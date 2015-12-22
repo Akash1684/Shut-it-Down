@@ -1,9 +1,9 @@
 Shut-it-Down
 ===
 
-How many times you just doze off with your System remained open??
+How many times you just doze off with your System remained open???
 
-Here is the implementation of shutdown scheduler (**Windows Users**) designed using JAVA.
+Here is the implementation of shutdown scheduler (**Windows Users**) designed using JAVA Swing and System Calls.
 
 How it Works!!
 ---
