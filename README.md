@@ -3,7 +3,7 @@ Shut-it-Down
 
 How many times you just doze off with your System remained open???
 
-Here is the implementation of shutdown scheduler (**Windows Users**) designed using JAVA Swing and System Calls.
+Here is an desktop application that schedules shutdown (**Windows Users**) designed using JAVA Swing and implemeneted using System Calls.
 
 How it Works!!
 ---
