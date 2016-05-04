@@ -1,23 +1,14 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 
 import java.io.*;
 import javax.swing.event.*;
 /**
  *
- * @author USER
+ * @author Akash Srivastava
  */
 public class Auto_shut extends javax.swing.JFrame
 {
 
-    /**
-     * Creates new form Auto_shut
-     */
-    
-    
+   
     
     public Auto_shut() {
         
